@@ -8,6 +8,12 @@ Copy and update `.envrc.example`
 cp .envrc.example .envrc
 ```
 
+Allow `direnv` to load `.envrc`:
+
+```
+direnv allow
+```
+
 Run these scripts:
 
 init:
