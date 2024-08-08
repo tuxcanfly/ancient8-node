@@ -27,6 +27,7 @@
   "canyon_time": 0,
   "delta_time": 1708560000,
   "ecotone_time": 1710374401,
+  "fjord_time": 1720627201,
   "batch_inbox_address": "0xd5df46c580fd2fbdaee751dc535e14295c0336f3",
   "deposit_contract_address": "0x639f2aece398aa76b07e59ef6abe2cfe32bacb68",
   "l1_system_config_address": "0x0b4cfc49acc656ce6d03cb0794860da92be3e8ec"
